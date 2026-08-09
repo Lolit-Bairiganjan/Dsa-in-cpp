@@ -1,6 +1,6 @@
 # Data Structures & Algorithms (DAA / DSA)
 
-Welcome to my Data Structures and Algorithms repository! This repository contains clean C and C++ implementations of fundamental data structures, graph algorithms, string-matching techniques, and advanced algorithmic concepts.
+Welcome to my Data Structures and Algorithms repository! This repository contains clean C++ implementations of fundamental data structures, graph algorithms, string-matching techniques, and advanced algorithmic concepts.
 
 ---
 
