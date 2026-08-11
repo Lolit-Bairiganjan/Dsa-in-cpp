@@ -10,7 +10,7 @@ using namespace std;
 template <typename T>
 class Graph{
     private:
-        unordered_map<T, std::vector<T>> adjList;
+        unordered_map<T, vector<T>> adjList;
         unordered_map<T, bool> visited;
     public:
         void addEdge(const T &u, const T &v, bool isDirected = false){
