@@ -57,12 +57,12 @@ class Graph{
                     } 
                 }
             }
-            std::cout << "--- Shortest Distances from " << source << " ---\n";
+            cout << "--- Shortest Distances from " << source << " ---\n";
             for (const auto& [node, d] : dist) {
                 if (d == INF) {
-                    std::cout << source << " to " << node << " : Unreachable\n";
+                    cout << source << " to " << node << " : Unreachable\n";
                 } else {
-                    std::cout << source << " to " << node << " : " << d << "\n";
+                    cout << source << " to " << node << " : " << d << "\n";
                 }
             }
         }
